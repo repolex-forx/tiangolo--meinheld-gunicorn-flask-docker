@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/meinheld-gunicorn-flask-docker/commit/e871de6864887a7b3efba026cc935880a00485cb",
       "git:hexsha": "e871de6864887a7b3efba026cc935880a00485cb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:41:37.177635+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/meinheld-gunicorn-flask-docker/commit/db8af21a60551c822b6d1b58f63d15ea50789c3a",
